@@ -1,0 +1,11 @@
+{
+  "repositories":{
+    "redredmaple/packages": {
+      "type":"path",
+      "url":"/home/redredmaple/project/packages"
+    }
+  },
+  "require": {
+    "redredmaple/packages": "dev-master"
+  }
+}
